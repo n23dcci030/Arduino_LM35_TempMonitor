@@ -14,7 +14,8 @@ void loop() {
 
   Serial.print(temp1);
   Serial.print(",");
-  Serial.println(temp2);
+  Serial.println("{\"status\": \"JSON format\"}");
+  
 
   delay(1000);
 }
