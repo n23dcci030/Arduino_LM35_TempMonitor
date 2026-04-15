@@ -107,3 +107,10 @@ git clone https://github.com/n23dcci030/Arduino_LM35_TempMonitor
 5.Thành viên nhóm:
 Vòong Đăng Hưng-N23DCCI030
 Nguyễn Kim Trung-N23DCCI073
+## Tác giả
+
+- **Vòong Đăng Hưng**
+- Sinh viên ngành IoT
+- Học viện Công Nghệ Bưu chính Viễn Thông
+
+🌐 [Trang cá nhân](https://n23dcci030.github.io)
